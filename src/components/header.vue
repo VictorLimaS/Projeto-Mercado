@@ -1,7 +1,7 @@
 <template>
   <div class="container_header">
     <header class="header">
-      <div class="logo">Logo</div>
+      <div class="logo"><img src="../assets/img/logo.png" alt=""></div>
       <div class="search">
         <input type="text" placeholder="Pesquisar...">
         <button><ion-icon name="search"></ion-icon></button>
@@ -24,17 +24,11 @@
   </div>
 </template>
 
-<script>
-export default {
-  name: 'Header',
-};
-</script>
-
 <style scoped>
-
 .container_header {
- position: fixed;
- width: 100%;
+  position: fixed;
+  width: 100%;
+  z-index: 800;
 }
 
 .header {
@@ -54,6 +48,11 @@ export default {
   flex: 1;
 }
 
+.header .logo img {
+  width: 6rem;
+  height: 5rem;
+}
+
 .search {
   flex: 2;
   display: flex;
@@ -63,6 +62,7 @@ export default {
 .search input {
   flex: 1;
   padding: 10px;
+  font-size: 15px;
   border-radius: 10px 0px 0px 10px;
   border: none;
 }
@@ -71,6 +71,7 @@ export default {
   padding: 10px;
   background-color: #fff;
   color: #000;
+  margin-left: -2px;
   border-radius: 0px 10px 10px 0;
   border: none;
   cursor: pointer;
@@ -99,7 +100,7 @@ export default {
 .subheader {
   background-color: #00BF63;
   color: white;
-  padding: 1rem ;
+  padding: 1rem;
   display: flex;
   justify-content: center;
   width: 100%;
@@ -116,17 +117,17 @@ export default {
   margin: 0 10px;
 }
 
-.subheader a {
+.subheader ul li a {
   color: white;
   text-decoration: none;
   font-weight: bold;
   padding: 5px;
+  cursor: pointer;
 }
 
-.subheader a:hover {
-  background-color: #fff;
+.subheader ul li a:hover {
+  background-color: #ffffff;
   border-radius: 5px;
-  color:#FA9B2D;
+  color: #00BF63;
 }
-
 </style>
