@@ -1,0 +1,182 @@
+[
+    {
+        "name": "vinho tinto",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fvinho%20tinto.jpg?alt=media&token=0d09e35f-82d4-40f2-8d91-f4c6359e13d7",
+        "description": "Vinho Pérola 1L",
+        "price": "R$ 36,99/uni"
+    },
+    {
+        "name": "vinho branco",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fvinho%20branco.jpg?alt=media&token=d84ba00c-b0f4-4f8b-8b4e-d7f83c97f7cb",
+        "description": "Vinho Blend 750ML",
+        "price": "R$ 49,99/uni"
+    },
+    {
+        "name": "tanquery",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Ftanquery.jpg?alt=media&token=f7f68c8b-0b5e-4851-92c2-4da0b4e525a8",
+        "description": "Tanquery 750ML",
+        "price": "R$ 109,99/uni"
+    },
+    {
+        "name": "suco de laranja",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fsuco.jpg?alt=media&token=b7316882-2d7f-43c8-8975-32a071fff348",
+        "description": "Suco de Laranja 300ML",
+        "price": "R$ 9,99/uni"
+    },
+    {
+        "name": "stock menta",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fstock%20menta.jpg?alt=media&token=92e188bb-6597-4c79-8c72-406661434174",
+        "description": "Stock Mente 720ML",
+        "price": "R$ 29,99/uni"
+    },
+    {
+        "name": "smirnoff",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fsmirnoff.jpg?alt=media&token=c7151a17-eff6-4890-80cc-62c69e4e7381",
+        "description": "Smirnoff 980ML",
+        "price": "R$ 19,99/uni"
+    },
+    {
+        "name": "sagatiba",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fsagatiba.jpg?alt=media&token=fdf77f2d-8ffe-45ac-80f0-fd3b97e04406",
+        "description": "Sagatiba 980ML",
+        "price": "R$ 19,99/uni"
+    },
+    {
+        "name": "red label",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fredlabel.jpg?alt=media&token=5cc3675a-dbb3-4ca9-9d9c-6f096dfd764e",
+        "description": "Red Label 400ML",
+        "price": "R$ 99,99/uni"
+    },
+    {
+        "name": "red bull",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fredbull.jpg?alt=media&token=5a3f1ca8-97e4-4e9e-b7d7-c06bf20910b2",
+        "description": "Red Bull 250ML",
+        "price": "R$ 11,99/uni"
+    },
+    {
+        "name": "monster",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fmonster.jpg?alt=media&token=464b9882-5498-436c-8e95-5dda0a780275",
+        "description": "Monster 350ML",
+        "price": "R$ 12,99/uni"
+    },
+    {
+        "name": "mojito",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fmojito.jpg?alt=media&token=cc7bcad9-7e56-4394-9f83-2cf05a0873b4",
+        "description": "Beats Mint 269ml",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "jose cuervo",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fjose%20cuervo.jpg?alt=media&token=41d532d7-0355-49cd-a3c7-0def921f1da9",
+        "description": "Jose Cuervo 900ML",
+        "price": "R$ 15,99/uni"
+    },
+    {
+        "name": "jack daniels",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fjack.jpg?alt=media&token=53555c35-abb2-4298-92c4-866d1b483329",
+        "description": "Jack Daniels 1L",
+        "price": "R$ 159,99/uni"
+    },
+    {
+        "name": "jack honey",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fjack%20honey.jpg?alt=media&token=78fc861c-1e47-4023-9eb4-bf137e35ebb7",
+        "description": "Jack Honey 1L",
+        "price": "R$ 199,99/uni"
+    },
+    {
+        "name": "jack fire",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fjack%20fire.jpg?alt=media&token=926533c3-36a7-4dff-a721-c72b38bd1fdd",
+        "description": "Jack Fire 1L",
+        "price": "R$ 229,99/uni"
+    },
+    {
+        "name": "white horse",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fhorse.jpg?alt=media&token=f09a9e18-73d5-42f1-a79e-d57f945fd2de",
+        "description": "White Horse 500ML",
+        "price": "R$ 59,99/uni"
+    },
+    {
+        "name": "guaraná",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fguarana.jpg?alt=media&token=95a79220-f453-458d-af44-a7853b001719",
+        "description": "Guaraná Antartica 2L",
+        "price": "R$ 7,99/uni"
+    },
+    {
+        "name": "corote",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fcorote.jpg?alt=media&token=fadaa099-32f6-42e6-bcdb-878c98562457",
+        "description": "Caninha da Roça 500ML",
+        "price": "R$ 4,99/uni"
+    },
+    {
+        "name": "coca cola",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fcoca.jpg?alt=media&token=f18bfb2f-8081-4628-98dc-8520513fcecf",
+        "description": "Coca cola 2L ",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "farinha de trigo",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fciroc.jpg?alt=media&token=372da6e4-41d1-4543-8fb4-07d895507b96",
+        "description": "Farinha de Trigo 1Kg",
+        "price": "R$ 9,99/uni"
+    },
+    {
+        "name": "ciroc",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fchandon.jpg?alt=media&token=9027741a-fae7-4812-b586-8ca60964313e",
+        "description": "Ciroc 400ML",
+        "price": "R$ 149,99/uni"
+    },
+    {
+        "name": "cha",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fcha.jpg?alt=media&token=07261708-ca08-4d5d-b3af-fd48f08dd83c",
+        "description": "Ice Tea Leão 200ML",
+        "price": "R$ 5,99/uni"
+    },
+    {
+        "name": "cerveja",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fcerveja.jpg?alt=media&token=6f1d876d-c947-4414-a9f4-b63939f90421",
+        "description": "Budweiser 330ML",
+        "price": "R$ 7,99/uni"
+    },
+    {
+        "name": "caipirinha",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fcaipirinha.jpg?alt=media&token=e2bc1fd1-424f-4182-be74-4f7933a13b23",
+        "description": "Beats Caipirinha 269ML",
+        "price": "R$ 5,99/uni"
+    },
+    {
+        "name": "cafe",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fcafe.jpg?alt=media&token=3f0e8306-2257-40e9-abbc-ba96ba6aace6",
+        "description": "Café com Leite 260ML",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "ballantines",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fballatines%2012.jpg?alt=media&token=29dfad9e-1065-403a-b8a3-a731da6e607f",
+        "description": "Ballantines 425ML",
+        "price": "R$ 139,99/uni"
+    },
+    {
+        "name": "askov",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Faskov.jpg?alt=media&token=e3518b18-8f22-4684-99f1-64e6508ec941",
+        "description": "Askov 900ML",
+        "price": "R$ 9,99/uni"
+    },
+    {
+        "name": "agua",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fagua.jpg?alt=media&token=10fa74ce-cb64-4b91-95eb-52b20b61188a",
+        "description": "Água sem gás 500ML",
+        "price": "R$ 1,98/uni"
+    },
+    {
+        "name": "absolut",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2Fabsolut.jpg?alt=media&token=f29adc48-7a38-41f0-b929-fa2f2d5d12e9",
+        "description": "Vodka Absolut 1L",
+        "price": "R$ 79,99/uni"
+    },
+    {
+        "name": "51",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/bebidas%2F51.jpg?alt=media&token=ca99329a-e29a-4aff-a510-e17686a55d00",
+        "description": "51 700ML",
+        "price": "R$ 9,99/uni"
+    }
+]

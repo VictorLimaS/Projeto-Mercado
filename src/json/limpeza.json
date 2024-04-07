@@ -1,0 +1,182 @@
+[
+    {
+        "name": "detergente",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2FDetergente.jpg?alt=media&token=ffa6c229-38ce-4fce-9e69-782681323735",
+        "description": "Lava Louças 5L",
+        "price": "R$ 16,99/uni"
+        },
+        {
+        "name": "barra de sabao",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2FSab%C3%A3o%20em%20barra.jpg?alt=media&token=8e275ae6-c4af-489e-a198-a895843cfc92",
+        "description": "Sabão 900g",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "sanitaria",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fagua%20sanitaria.jpg?alt=media&token=ada5404e-78f0-495e-924d-efaf55bb9f76",
+        "description": "Água Sanitária 5L",
+        "price": "R$ 12,99/uni"
+    },
+    {
+        "name": "amaciante",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Famaciante.jpg?alt=media&token=f50f4c15-c0b8-4050-b392-4822ef52e147",
+        "description": "Amaciante 2L",
+        "price": "R$ 9,99/uni"
+    },
+    {
+        "name": "Balde",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fbalde.jpg?alt=media&token=626af2f0-819e-4649-b8d7-321caec1d9d8",
+        "description": "Balde 8L",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "desengordurante",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fdesengordurante.jpg?alt=media&token=e9bfb2f2-0dbe-478f-982b-853b153b1c61",
+        "description": "Desengordurante 500ML",
+        "price": "R$ 12,99/uni"
+    },
+    {
+        "name": "desinfetante",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fdesinfetante.jpg?alt=media&token=591269c7-7b03-4b70-a750-bedfa8b029d1",
+        "description": "Desinfetante 2L",
+        "price": "R$ 11,99/uni"
+    },
+    {
+        "name": "escova para vaso",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fescova%20de%20vaso.jpg?alt=media&token=a64d9d59-dec5-4d9c-974a-652b3f28cba2",
+        "description": "Escova Sanitaria",
+        "price": "R$ 29,99/uni"
+    },
+    {
+        "name": "escova",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fescova.jpg?alt=media&token=131c9634-a33c-4e77-a0dc-20e669dcba2e",
+        "description": "Escova",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "esponja",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fesponja.jpg?alt=media&token=9bb7a1da-ba49-48c3-898f-0f9b3dd71797",
+        "description": "Esponja",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "flanela",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fflanela.jpg?alt=media&token=5129be43-433c-4ec1-835a-af09ce35316b",
+        "description": "flanela",
+        "price": "R$ 5,99/uni"
+    },
+    {
+        "name": "limpa estofado",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Flimpa%20estofados.jpg?alt=media&token=135b5398-8af3-47d3-a90f-1c0663fbee78",
+        "description": "Limpa Estofado 500ML",
+        "price": "R$ 12,99/uni"
+    },
+    {
+        "name": "limpa inox",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Flimpa%20inox.jpg?alt=media&token=8401f986-4fa9-4476-b69d-8a223723b5fa",
+        "description": "Limpa Inox 500ML",
+        "price": "R$ 15,99/uni"
+    },
+    {
+        "name": "limpa porcelanato",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Flimpa%20pisos.jpg?alt=media&token=b0a4c013-d03f-4e04-a39b-8b43f9740782",
+        "description": "Limpa Piso 750ML",
+        "price": "R$ 12,99/uni"
+    },
+    {
+        "name": "limpa tela",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Flimpa%20telas.jpg?alt=media&token=b92ccba8-9fcd-45a5-ac92-d529e5290a82",
+        "description": "Limpa Telas 60ML",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "limpa vidro",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Flimpa%20vidros.jpg?alt=media&token=3ee88fb3-2aba-41e0-9aee-dcbb8bf71bde",
+        "description": "Limpa Vidro 500ML",
+        "price": "R$ 14,99/uni"
+    },
+    {
+        "name": "lustra moveis",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Flustra%20moveis.jpg?alt=media&token=4f72b02e-d8f4-42b3-811d-e25e37e289f6",
+        "description": "Lustra Moveis 200ML",
+        "price": "R$ 7,99/uni"
+    },
+    {
+        "name": "lustra",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Flustra.jpg?alt=media&token=dd2b9e6c-343e-4e37-a61d-7f85da339c7f",
+        "description": "Lustra Moveis 200ML",
+        "price": "R$ 6,99/uni"
+    },
+    {
+        "name": "luva",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fluvas.jpg?alt=media&token=afe1a483-979c-490d-92c6-a5937ade3a02",
+        "description": "Luva Longa",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "mop",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fmop.jpg?alt=media&token=9610ed2d-b17c-45e8-a340-442629778e5f",
+        "description": "Mop",
+        "price": "R$ 27,99/uni"
+    },
+    {
+        "name": "multiuso",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fmultuso.jpg?alt=media&token=bd817176-de92-431e-8100-01c9766b4d89",
+        "description": "Multiuso 500ML",
+        "price": "R$ 12,99/uni"
+    },
+    {
+        "name": "odorizador lavanda",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fodorizador%20de%20ambiente.jpg?alt=media&token=76faf84d-1246-4dbf-9468-5bf119c6b7b1",
+        "description": "Odorizador Lavanda 360ML",
+        "price": "R$ 15,99/uni"
+    },
+    {
+        "name": "odorizador tecido",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fodorizador.jpg?alt=media&token=c70428f8-9b63-4142-be3d-1d8e99fdeb84",
+        "description": "Odorizador Tecido 300ML",
+        "price": "R$ 7,99/uni"
+    },
+    {
+        "name": "pa",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fpa.jpg?alt=media&token=23ad3668-451d-4270-9d77-ed729bc085b8",
+        "description": "Pá para Lixo",
+        "price": "R$ 14,99/uni"
+    },
+    {
+        "name": "pano",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fpano%20de%20chao.jpg?alt=media&token=992d0e06-49b0-44b4-8486-34f70742117c",
+        "description": "Pano",
+        "price": "R$ 2,99/uni"
+    },
+    {
+        "name": "tira manchas",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fremovedor%20de%20manchas.jpg?alt=media&token=d5ef3d41-9965-4c12-804f-269020bf8e63",
+        "description": "Tira Manchas 500ML",
+        "price": "R$ 39,99/uni"
+    },
+    {
+        "name": "rodo",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Frodo.jpg?alt=media&token=a6f26aa3-e64b-463d-b4ef-9ee5d66608c5",
+        "description": "Rodo",
+        "price": "R$ 9,99/uni"
+    },
+    {
+        "name": "saco para lixo",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fsaco%20de%20lixo.jpg?alt=media&token=e497c5a2-f889-4362-bb5f-e8855b4098d1",
+        "description": "Saco de lixo",
+        "price": "R$ 9,99/uni"
+    },
+    {
+        "name": "removedor de manchas",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Ftira%20manchas.jpg?alt=media&token=711923fe-745f-494b-b96e-7966c6effb18",
+        "description": "Removedor de Manchas 500ML",
+        "price": "R$ 39,99/uni"
+    },
+    {
+        "name": "vassoura",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/limpeza%2Fvassoura.jpg?alt=media&token=e9c93add-1b5e-41c7-9692-b9fc06afc421",
+        "description": "Vassoura",
+        "price": "R$ 14,99/uni"
+    }
+]

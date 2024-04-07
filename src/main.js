@@ -1,9 +1,11 @@
-import { createApp } from 'vue'
-import './style.css'
-import App from './App.vue'
+import { createApp } from 'vue';
+import App from './App.vue';    
+import router from './router/router';
+import store from './store';
+import { app } from './firebase';
 
-
-createApp(App).mount('#app')
-
-
-
+const vueApp = createApp(App);
+vueApp.use(router);
+vueApp.use(store);
+vueApp.config.globalProperties.$firebase = app;
+vueApp.mount('#app');

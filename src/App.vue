@@ -1,31 +1,36 @@
 <template>
-    <div id="app">
-      <Header :title="'Meu Site'"/>
-      <Inicio />
-      <Footer />
-    </div>
-  </template>
-  
-  <script>
- import Header from './components/header.vue';
- import Inicio from './components/inicio.vue';
- import Footer from './components/footer.vue';
+  <div id="app">
+    <Header @getNameItem="getItem"/>
+    <router-view :itemName="itemName"/>
+    <Footer/>
+  </div>
+</template>
 
-  
-  export default {
-    name: 'App',
-    components: {
-      Header,
-      Inicio,
-      Footer
+<script>
+import Header from './components/Header.vue';
+import Footer from './components/Footer.vue';
+
+export default {
+  name: 'App',
+  components: {
+    Header,
+    Footer
+  },
+  data() {
+    return {
+      itemName: ''
     }
-  };
-  </script>
-  
-  <style>
-  #app {
-    font-family: Avenir,   Helvetica, Arial, sans-serif;
-    height: 100vh;
-  }
-  </style>
-  
+  },
+  methods: {
+    getItem(value) {
+      this.itemName = value
+    }
+  },
+};
+</script>
+
+<style>
+#app {
+  font-family: Avenir,   Helvetica, Arial, sans-serif;
+}
+</style>

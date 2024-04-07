@@ -40,9 +40,10 @@
 .content {
   position: relative;
   display: flex;
+  height: 600px;
+  padding-top: 2rem;
   justify-content: center;
   align-items: center;
-  padding-top: 8rem;
   overflow: hidden;
 }
 
@@ -55,7 +56,7 @@
   position: absolute;
   color: #fff;
   font-size: 4rem;
-  top: calc(50% - -2rem);
+  top: calc(50% - 1rem);
   background-color: transparent;
   border: none;
   cursor: pointer;
@@ -83,7 +84,6 @@
   text-align: center;
   justify-content: center;
   align-items: center;
-  margin-top: 3.2rem;
 }
 
 .info-item {
@@ -124,6 +124,7 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
   cursor: pointer;
 }
 

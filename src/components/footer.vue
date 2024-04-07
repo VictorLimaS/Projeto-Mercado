@@ -46,11 +46,16 @@
 .footer {
   display: flex;
   justify-content: center;
-  gap: 10rem;
+  gap: 8rem;
   background-color: #FA9B2D;
   bottom: 0;
   margin-top: 5rem;
-  padding: 50px 10px ;
+  padding: 20px 10px ;
+}
+
+.footer .logo {
+  display: flex;
+  align-items: center;
 }
 
 .footer .logo img {
@@ -60,18 +65,16 @@
 .footer .info {
   display: flex;
   flex-direction: column;
-  gap: 10px;
   color: #fff;
 }
 
 .footer .info p {
   cursor: pointer;
-  height: 20px;
 }
 
 .footer .info p:hover {
   transition: .5s;
-  border-bottom: 1px solid #fff;
+  color: rgb(183, 181, 181);
 }
 
 .footer .info h3 {

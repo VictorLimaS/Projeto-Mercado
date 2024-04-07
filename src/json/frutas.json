@@ -1,0 +1,182 @@
+[
+    {
+        "name": "abacate",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Abacate.jpg?alt=media&token=121c5808-3844-4041-afb6-9df03f7a9cd8",
+        "description": "Abacate Geada Kg",
+        "price": "R$ 3,99/kg"
+    },
+    {
+        "name": "abacaxi",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Abacaxi.jpg?alt=media&token=33925339-718e-4036-8828-a7b395ea3ff1",
+        "description": "Abacaxi Pérola Unidade",
+        "price": "R$ 4,99/uni"
+    },
+    {
+        "name": "acerola",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Acerola.jpg?alt=media&token=322cb3a7-b187-4b3f-bb70-7b1262e49d5a",
+        "description": "Acerola Rubra Kg",
+        "price": "R$ 6,99/kg"
+    },
+    {
+        "name": "amora",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Amora.jpg?alt=media&token=0a8deb32-711e-4acc-8c58-b45a68137461",
+        "description": "Amora-Preta 200g ",
+        "price": "R$ 8,99/200g"
+    },
+    {
+        "name": "araticum",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Araticum.jpg?alt=media&token=f43ea382-9165-4563-bb2d-8bf88827826c",
+        "description": "Araticum-do-Cerrado Unidade ",
+        "price": "R$ 12,99/uni"
+    },
+    {
+        "name": "atemoia",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Atemoia.jpg?alt=media&token=c89b05d6-b6cd-4bc8-a39a-12c3d5bfc0d2",
+        "description": "Atemoia Pink Unidade",
+        "price": "R$ 5,99/uni"
+    },
+    {
+        "name": "açai",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/A%C3%A7a%C3%AD.jpg?alt=media&token=cb9d7d0d-91ea-4899-8edc-1dd31326ca50",
+        "description": "Açaí Roxo Kg",
+        "price": "R$ 15,99/kg"
+    },
+    {
+        "name": "bacaba",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Bacaba.jpg?alt=media&token=5fd5ed8c-7515-4e41-a77b-d953963ff642",
+        "description": "Bacaba-de-Leque Kg",
+        "price": "R$ 9,99/kg"
+    },
+    {
+        "name": "banana",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Banana.jpg?alt=media&token=029bc7da-414a-4f72-bee3-f9b7ac6da4f4",
+        "description": "Banana Maçã Kg",
+        "price": "R$ 2,99/kg"
+    },
+    {
+        "name": "cacau",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Cacau.jpg?alt=media&token=c53bf838-8cb8-472d-a0f3-7917d8aece6b",
+        "description": "Cacau Forasteiro Kg",
+        "price": "R$ 19,99/kg"
+    },
+    {
+        "name": "carambola",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Carambola.jpg?alt=media&token=2e295673-cf0e-43c8-bc95-67775d8db98d",
+        "description": "Carambola Doce Kg",
+        "price": "R$ 7,99/kg"
+    },
+    {
+        "name": "cereja",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Cereja.jpg?alt=media&token=611b2ed0-0b5c-4349-a2df-966c15345046",
+        "description": "Cereja Prunus kg",
+        "price": "R$ 29,99/kg"
+    },
+    {
+        "name": "cidra",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Cidra.jpg?alt=media&token=01499a3d-8a22-4389-9a7a-9f82cc416c17",
+        "description": "Cidra Amarela Unidade ",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "coco",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Coco.jpg?alt=media&token=d8e2e256-f634-4757-8153-c32e420a89cf",
+        "description": "Coco Verde Unidade",
+        "price": "R$ 4,99/uni"
+    },
+    {
+        "name": "figo",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Figo.jpg?alt=media&token=79e42aa2-a3d6-4dca-9c5a-4be271a55e3e",
+        "description": "Figo Roxo Unidade",
+        "price": "R$ 3,99/uni"
+    },
+    {
+        "name": "framboesa",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Framboesa.jpg?alt=media&token=2397aea4-7169-4a63-9e37-fef2ecd827a8",
+        "description": "Framboesa Rubus 200g",
+        "price": "R$ 12,99/200g"
+    },
+    {
+        "name": "goiaba",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Goiaba.jpg?alt=media&token=c2c50595-6220-4a8b-b93a-e55b9f720a6f",
+        "description": "Goiaba Roxa Kg",
+        "price": "R$ 3,99/kg"
+    },
+    {
+        "name": "groselha",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Groselha.jpg?alt=media&token=e3c3a628-d84d-4ccf-86f8-3583745a954f",
+        "description": "Groselha Groselha Kg",
+        "price": "R$ 15,99/kg"
+    },
+    {
+        "name": "jabuticaba",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Jabuticaba.jpg?alt=media&token=3d327db7-9717-463e-b539-8eb130b5d7d7",
+        "description": "Jabuticaba Gaúcha Kg",
+        "price": "R$ 7,99/kg"
+    },
+    {
+        "name": "jaca",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Jaca.jpg?alt=media&token=560d34f4-c4d5-45f6-9064-65cef1c78a7a",
+        "description": "Jaca Manteiga Kg",
+        "price": "R$ 5,99/kg"
+    },
+    {
+        "name": "jenipapo",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Jenipapo.jpg?alt=media&token=d8413ab8-721a-4387-a8cb-b4491fc8b5cb",
+        "description": "Jenipapo Comum Kg",
+        "price": "R$ 9,99/kg"
+    },
+    {
+        "name": "kiwi",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Kiwi.jpg?alt=media&token=4278a7c9-8b8d-45a4-b63e-df5aa3beb18f",
+        "description": "Kiwi Verde Unidade",
+        "price": "R$ 2,99/uni"
+    },
+    {
+        "name": "laranja",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Laranja.jpg?alt=media&token=da044f65-ac96-4040-81fd-b3bb81ab2690",
+        "description": "Laranja Pera Kg",
+        "price": "R$ 1,99/kg"
+    },
+    {
+        "name": "limão",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Lim%C3%A3o.jpg?alt=media&token=76330604-0b0e-43bf-b4b9-0fd41f9e8d53",
+        "description": "Limão Taiti Kg",
+        "price": "R$ 2,99/kg"
+    },
+    {
+        "name": "manga",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Manga.jpg?alt=media&token=311bf895-7b7a-4c26-94f4-6f80cc96669b",
+        "description": "Manga Palmer Kg",
+        "price": "R$ 3,99/kg"
+    },
+    {
+        "name": "maracujá",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Maracuj%C3%A1.jpg?alt=media&token=17b18c76-a8f9-426f-a483-4d60dabf6cd9",
+        "description": "Maracujá Doce Kg",
+        "price": "R$ 4,99/kg"
+    },
+    {
+        "name": "melancia",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Melancia.jpg?alt=media&token=a03d2e7b-419c-4434-b756-1c5c73a95824",
+        "description": "Melancia Pingo Kg",
+        "price": "R$ 1,99/kg"
+    },
+    {
+        "name": "morango",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Morango.jpg?alt=media&token=15ba6647-edbc-49c6-b8c0-59434269734b",
+        "description": "Morango Ilan Kg",
+        "price": "R$ 6,99/kg"
+    },
+    {
+        "name": "uva",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/Uva.jpg?alt=media&token=f7839139-43bb-4744-8a20-1267bc4e4884",
+        "description": "Uva Crimson kg",
+        "price": "R$ 8,99/kg"
+    },
+    {
+        "name": "caqui",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/caqui.jpg?alt=media&token=321710cf-3105-468f-bb27-d236e4d511d6",
+        "description": "Caqui Fuyu Kg",
+        "price": "R$ 4,99/kg"
+    }
+]

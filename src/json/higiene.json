@@ -1,0 +1,182 @@
+[
+    {
+        "name": "alcool em gel",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2F%C3%81lcool%20em%20gel.jpg?alt=media&token=5a40168a-4d59-4747-9417-019590ed3871",
+        "description": "Álcool em gel 70% 500ML",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "shampoo,",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2Fshampoo.jpg?alt=media&token=232e18ba-e288-45a5-b1e0-4a0e4f6704bc",
+        "description": "Shampoo 400ML",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "sabonete liquido",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2Fsabonete%20liquido.jpg?alt=media&token=359638fa-ab94-496e-95e7-494e6fd9fccd",
+        "description": "Sabonete Liquido 210ML",
+        "price": "R$ 11,99/uni"
+    },
+    {
+        "name": "fio dental",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2Ffio%20dental.jpg?alt=media&token=e7c76f03-36cc-4273-a0a5-a9e4f2423537",
+        "description": "Fio Dental",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "escova de dente",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2Fescova%20de%20dentes.jpg?alt=media&token=2a7face8-9814-4c19-a870-d0dca9069359",
+        "description": "Escova de Dente",
+        "price": "R$ 9,99/uni"
+    },
+    {
+        "name": "creme dental",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2Fcreme%20dental.jpg?alt=media&token=cc15f5a9-6c25-4495-a7f8-5cb5b82b0208",
+        "description": "Creme Dental 90g",
+        "price": "R$ 3,99/uni"
+    },
+    {
+        "name": "condicionador",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2Fcondicionador.jpg?alt=media&token=af3752f2-c242-417f-8f50-182e86a3338f",
+        "description": "Condicionador 175ML",
+        "price": "R$ 12,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FTalco%20para%20os%20p%C3%A9s.jpg?alt=media&token=08da5dcd-25cd-41b4-9129-84e56f1d3423",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FSabonete%20%C3%ADntimo.jpg?alt=media&token=75e8a42d-b8ae-4102-a3e8-49342b1336c0",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+      "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FSabonete%20facial.jpg?alt=media&token=cce5010a-e37f-4d0d-b9ec-f26e158535a6",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+       "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FRepelente%20de%20insetos.jpg?alt=media&token=3db8e062-7779-45ed-8170-a87606f166c5",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FProtetor%20solar.jpg?alt=media&token=22a90f16-ddea-4fc7-bb18-6ee32c1cd5e0",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FPreservativos.jpg?alt=media&token=999213c1-10f8-4d2f-a3c9-f1ba09385f94",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FPente.jpg?alt=media&token=da6686d7-69a4-4ee6-b967-ec4a7ea2f2a2",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FPapel%20higienico.jpg?alt=media&token=9af740d3-19b4-43a0-b589-098af4eb806e",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FM%C3%A1scara%20facial.jpg?alt=media&token=c0703def-e692-41a9-8be0-293adab12ec4",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FLima%20de%20unhas.jpg?alt=media&token=a38a5af6-1082-4e53-ae83-076362a9153f",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FLen%C3%A7os%20umedecidos.jpg?alt=media&token=d25fa8ac-6221-463f-ba64-3d2fedd1e2bc",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FHidratante%20labial.jpg?alt=media&token=48155450-e2e4-4a31-b68f-d27b9b7141fa",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FHidratante%20corporal.jpg?alt=media&token=f420085e-8723-4cc7-a7be-f9138cf1385e",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+       "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FGel%20de%20banho.jpg?alt=media&token=ae0b82e2-b9d4-42b1-b50b-ebd1b4ff475f",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FAbsorventes%20%C3%ADntimos.jpg?alt=media&token=75636ed9-1833-4fcb-a5dc-5baba0c72624",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FAlgod%C3%A3o.jpg?alt=media&token=3973ca0d-fbdc-4fe6-bcfc-0a15dcadc146",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FCortador%20de%20unhas.jpg?alt=media&token=609770fd-77ac-4203-a42a-efb0ff98c3cb",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+       "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FCotonetes.jpg?alt=media&token=3e8dc6e5-189c-401f-a533-97412fa4bf55",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+       "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FDesodorante.jpg?alt=media&token=2cb11a32-0392-4af6-8885-263a6a70ddc8",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FEnxaguante%20bucal.jpg?alt=media&token=7f45d78e-6262-4200-b14c-2ddabb2e757a",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FEscova%20de%20cabelo.jpg?alt=media&token=c3ed3b92-8cab-4e48-b9ed-5dd88199987a",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FEscova%20de%20limpeza%20facial.jpg?alt=media&token=d0b8c0c6-f40b-4a6f-b27b-d9bb4ecdc907",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    },
+    {
+        "name": "",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/higiene%2FEsfoliante%20corporal.jpg?alt=media&token=c04401d3-8d66-4fc1-99bb-70deaaa4626b",
+        "description": "",
+        "price": "R$ 16,99/uni"
+    }
+]

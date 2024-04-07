@@ -1,0 +1,182 @@
+[
+    {
+        "name": "almondegas",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Falmondegas.jpg?alt=media&token=e0e643cd-40f1-4f67-9faf-548924c39ffb",
+        "description": "Almôndegas de Carne 900g",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "bacalhau",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fbacalhau.jpg?alt=media&token=21e8c118-e91e-4d1a-a0de-b489a7723f25",
+        "description": "Bacalhau em Natas 850g ",
+        "price": "R$ 24,99/uni"
+    },
+    {
+        "name": "batata",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fbatata.jpg?alt=media&token=c43202f7-21ef-4c86-b06a-82ac9dcb0b44",
+        "description": "Batata Frita 1,5Kg",
+        "price": "R$ 14,99/uni"
+    },
+    {
+        "name": "bolinha",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fbolinha.jpg?alt=media&token=789825f4-43c2-49ed-a749-93368f320439",
+        "description": "Bolinha de Queijo 500g ",
+        "price": "R$ 8,99/uni"
+    },
+    {
+        "name": "brocolis",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fbrocolis.jpg?alt=media&token=2cd9e93a-3bd9-4176-ac28-afd37f6d9cbb",
+        "description": "Brócolis 200g",
+        "price": "R$ 7,99/uni"
+    },
+    {
+        "name": "camarao",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fcamarao.jpg?alt=media&token=6470a063-e951-4c9e-8cfe-798d036f0e3b",
+        "description": "Camarão 400g",
+        "price": "R$ 21,99/uni"
+    },
+    {
+        "name": "carne moida",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fcarne%20moida.jpg?alt=media&token=587cdac6-c041-4270-9c4c-6d02ea521481",
+        "description": "Carne Moida 1Kg",
+        "price": "R$ 14,99/kg"
+    },
+    {
+        "name": "costela",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fcostela.jpg?alt=media&token=006f9a37-993e-431b-80d3-94bd03a09acc",
+        "description": "Costela Janelão Kg",
+        "price": "R$ 32,99/kg"
+    },
+    {
+        "name": "frango cubo",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fcubo%20de%20frango.jpg?alt=media&token=17a802ab-b404-4065-a8da-3d8f4039425d",
+        "description": "Filé de Peito em Cubos 1Kg",
+        "price": "R$ 19,99/uni"
+    },
+    {
+        "name": "file de peito",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Ffile%20de%20peito.jpg?alt=media&token=eb0f8cfd-bef4-4033-b969-96ee7812459e",
+        "description": "Filé de Peito 1Kg",
+        "price": "R$ 19,99/uni"
+    },
+    {
+        "name": "file empanado",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Ffile%20empanado.jpg?alt=media&token=f29a7fa7-d6de-4284-ab2a-1df23f6ba171",
+        "description": "Filé de Frango Empanado 1Kg",
+        "price": "R$ 24,99/uni"
+    },
+    {
+        "name": "frango",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Ffrango.jpg?alt=media&token=918c978e-b6c5-4d49-8ef4-2252bd6b3f46",
+        "description": "Frango Congelado kg",
+        "price": "R$ 15,99/kg"
+    },
+    {
+        "name": "frutas",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Ffrutas.jpg?alt=media&token=7c734fdf-f485-43d9-88be-32c461122de2",
+        "description": "Frutas Congeladas 1kg",
+        "price": "R$ 14,99/uni"
+    },
+    {
+        "name": "hamburguer frango",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fhamburguer%20de%20frango.jpg?alt=media&token=bb5d5f8c-64f6-4411-b8bd-68437724a787",
+        "description": "Hambúrguer de Frango 672g",
+        "price": "R$ 14,99/uni"
+    },
+    {
+        "name": "hamburguer bovino",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fhamburguer.jpg?alt=media&token=1e78914c-e128-41c0-9e34-63d8532e65fb",
+        "description": "Hambúrguer Bovino 540g",
+        "price": "R$ 21,99/uni"
+    },
+    {
+        "name": "kibe",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fkibe.jpg?alt=media&token=3edc7872-510f-49e8-9d1c-99d4c6299d5e",
+        "description": "Kibe Vegetal 300g",
+        "price": "R$ 12,99/uni"
+    },
+    {
+        "name": "massa de pizza",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fmassa%20para%20pizza.jpg?alt=media&token=8317ec06-a22d-4424-abde-584891e75555",
+        "description": "Massa de Pizza 300g",
+        "price": "R$ 19,99/uni"
+    },
+    {
+        "name": "massa",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fmassa.jpg?alt=media&token=b1e72ede-3edd-4cce-8320-6b75778e90b5",
+        "description": "Massa 250g",
+        "price": "R$ 15,99/uni"
+    },
+    {
+        "name": "medalhao de frango",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fmedalhao.jpg?alt=media&token=7315c9da-466c-4d63-97b3-27feb3a7fbbe",
+        "description": "Medalhão Peito de Frango 500g ",
+        "price": "R$ 14,99/uni"
+    },
+    {
+        "name": "nuggets",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fnuggets.jpg?alt=media&token=257c5c2a-4471-4716-8eaa-bc77fb0c34b2",
+        "description": "Nuggets de Frango 275g",
+        "price": "R$ 9,99/uni"
+    },
+    {
+        "name": "panqueca",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fpanqueca.jpg?alt=media&token=0be2fb67-9063-4d07-bf86-6322c817c4f4",
+        "description": "Panqueca de Carne 600g",
+        "price": "R$ 17,99/uni"
+    },
+    {
+        "name": "pao de alho",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fpao%20de%20alho.jpg?alt=media&token=efbaaf89-084c-4027-a8cd-93408f53dc98",
+        "description": "Pão de Alho 400g",
+        "price": "R$ 15,99/uni"
+    },
+    {
+        "name": "peru",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fperu.jpg?alt=media&token=40fb0c00-da14-4356-967b-7a5216ce64c7",
+        "description": "Peito de Peru Kg",
+        "price": "R$ 22,99/kg"
+    },
+    {
+        "name": "pizza",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fpizza.jpg?alt=media&token=a7491e9d-5895-4753-834b-9443349c8f95",
+        "description": "Pizza Congelada 460g",
+        "price": "R$ 12,99/uni"
+    },
+    {
+        "name": "polpa",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fpolpa.jpg?alt=media&token=49fc0a7f-a8eb-47da-a58c-eaad0a075698",
+        "description": "Polpa de Suco 100g",
+        "price": "R$ 4,99/uni"
+    },
+    {
+        "name": "sobremesa",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fsobremesa.jpg?alt=media&token=c37ab916-f72f-49f2-9bd1-15a36154a30d",
+        "description": "Petit Gateau",
+        "price": "R$ 17,99/kg"
+    },
+    {
+        "name": "sorvete",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fsorvete.jpg?alt=media&token=6a1b8af3-4f80-476f-b876-648cd7658436",
+        "description": "Sorvete Flocos 2L",
+        "price": "R$ 15,99/uni"
+    },
+    {
+        "name": "tilapia",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Ftilapia.jpg?alt=media&token=264ee730-8b0b-4871-94a9-40b93db8ce7e",
+        "description": "Tilápia 800g",
+        "price": "R$ 19,99/uni"
+    },
+    {
+        "name": "vegetais",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fvegetais.jpg?alt=media&token=730f18bd-5524-4303-85da-d4197a044a9f",
+        "description": "Mix de Vegetais 300g",
+        "price": "R$ 9,99/uni"
+    },
+    {
+        "name": "waffle",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mercado-local-a0d6b.appspot.com/o/congelados%2Fwaffle.jpg?alt=media&token=85fab70e-dcfe-493d-82c7-2f91561fa26a",
+        "description": "Pão de queijo Waffle 200g",
+        "price": "R$ 14,99/uni"
+    }
+]
