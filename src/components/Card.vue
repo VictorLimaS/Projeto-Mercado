@@ -6,7 +6,7 @@
         </div>
         <p>{{ description }}</p>
         <p>{{ price }}</p>
-        <Botao icone="cart-outline" texto="Finalizar" />
+        <Botao icone="cart-outline" @click="addToCart()" texto="Adicionar" />
     </div>
 
 </template>
@@ -29,23 +29,28 @@ export default {
         price: {
             type: String
         },
-    },
-    data() {
-        return {
-            itensA: []
+        item: {
+            type: Object
         }
     },
     methods: {
         imageLoaded(event) {
             const imageContainer = event.target.parentElement;
             imageContainer.classList.add('loaded');
+        },
+        addToCart() {
+            this.$emit('addToCart', this.item)
+            // const item = {
+            //     name: this.description,
+            //     price: parseFloat(this.price),
+            //     image: this.imageUrl,
+            //     quantity: 1,
+            // };
+            // console.log('Adicionando ao carrinho:', item);
+            // this.$store.dispatch('addToCart', item);
         }
-    },
-    created() {
-        this.itensA = this.itens
-    },
-}
-
+    }
+};
 </script>
 
 <style scoped>

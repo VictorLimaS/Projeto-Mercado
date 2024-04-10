@@ -5,9 +5,8 @@
         </div>
         <div class="cards">
             <div v-for="fruta in cards" :key="fruta.name" class="card">
-                <Card :imageUrl="fruta.imageUrl" :description="fruta.description" :price="fruta.price" />
-                <Botao texto="Adicionar ao carrinho" icone="cart"
-                    @adicionar-ao-carrinho="adicionarItemAoCarrinho(fruta)" />
+                <Card :item="fruta" :imageUrl="fruta.imageUrl" :description="fruta.description" :price="fruta.price"
+                    @addToCart="addToCart" />
             </div>
         </div>
     </div>
@@ -21,7 +20,7 @@ import padaria from '../json/padaria.json';
 import bebidas from '../json/bebidas.json';
 import limpeza from '../json/limpeza.json';
 import higiene from '../json/higiene.json';
-import { mapState } from 'vuex';
+import { mapGetters, mapMutations } from 'vuex';
 
 export default {
     name: 'ItensMercado',
@@ -66,20 +65,24 @@ export default {
         }
     },
     computed: {
-        ...mapState(['test'])
+        ...mapGetters(['cartItems'])
     },
     methods: {
+        ...mapMutations(['SET_CART_ITEMS']),
         filterItens() {
             if (this.itemName) {
                 return this.cardList.filter(item => item.name === this.itemName)
                     .forEach(item => this.cards = item.itens);
             }
             this.cards = frutas
+        },
+        addToCart(fruta) {
+            this.SET_CART_ITEMS(fruta)
+            console.log(this.cartItems)
         }
     },
     created() {
         this.filterItens()
-        console.log('opa', this.test)
     },
     watch: {
         itemName() {

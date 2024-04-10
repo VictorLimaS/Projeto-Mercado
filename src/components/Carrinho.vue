@@ -3,9 +3,21 @@
     <div class="cart">
       <h2>Meu Carrinho</h2>
       <div class="cart-items">
-        <div v-for="(item, index) in items" :key="index" class="cart-item">
-          {{ item.name }} - R$ {{ item.price }}
-          <button @click="removeItem(index)">Remover</button>
+        <div v-for="(item, index) in cartItems" :key="index" class="cart-item">
+          <div class="item-info">
+            <img class="item-image" :src="item.image" alt="Imagem do Produto">
+            <div class="item-details">
+              <p>{{ item.name }}</p>
+              <div class="price-and-quantity">
+                <p>R$ {{ item.price }}</p>
+                <div class="quantity-controls">
+                  <button @click="decreaseQuantity(index)" class="quantity-button">-</button>
+                  <button @click="increaseQuantity(index)" class="quantity-button">+</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <ion-icon name="close-circle" @click="removeItem(index)" class="remove-icon"></ion-icon>
         </div>
       </div>
       <div class="total">Total: R$ {{ getTotal() }}</div>
@@ -18,22 +30,24 @@
 </template>
 
 <script>
+import { mapGetters, mapActions } from 'vuex';
+
 export default {
-  name: 'Carrinho', 
+  name: 'Carrinho',
   props: ['show'],
   data() {
     return {
-      items: []
     };
   },
+  computed: {
+    ...mapGetters(['cartItems', 'getTotal'])
+  },
   methods: {
-    getTotal() {
-      return this.items.reduce((total, item) => total + item.price, 0).toFixed(2);
-    }
+    ...mapActions(['removeItem', 'increaseQuantity', 'decreaseQuantity'])
   }
 };
 </script>
-  
+
 <style scoped>
 .cart-overlay {
   position: fixed;
@@ -53,7 +67,7 @@ export default {
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   width: 300px;
-  position: relative;   
+  position: relative;
 }
 
 .cart h2 {
@@ -66,10 +80,56 @@ export default {
   margin-bottom: 10px;
 }
 
+.cart-items::-webkit-scrollbar {
+  width: 5px;
+}
+
+.cart-items::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.cart-items::-webkit-scrollbar-thumb {
+  background-color: rgb(83, 83, 83);
+  cursor: pointer;
+  border-radius: 10px;
+}
+
 .cart-item {
   display: flex;
   justify-content: space-between;
   margin-bottom: 5px;
+  margin-right: 10px;
+  border: 1px solid #ddd;
+  padding: 0 2px 0 2px;
+}
+
+.item-info {
+  display: flex;
+  align-items: center;
+}
+
+.item-image {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.item-details {
+  flex: 1;
+}
+
+.price-and-quantity {
+  display: flex;
+  align-items: center;
+}
+
+.price-and-quantity p {
+  margin-right: 10px;
+}
+
+.quantity-controls {
+  display: flex;
+  align-items: center;
 }
 
 .total {
@@ -92,6 +152,17 @@ export default {
   color: #0d9252;
 }
 
+.remove-icon {
+  margin-right: 10px;
+  margin-top: 10px;
+  color: #f00;
+  cursor: pointer;
+}
+
+.remove-icon:hover {
+  color: #f55;
+}
+
 .finalize-button {
   width: 100%;
   padding: 10px;
@@ -103,5 +174,31 @@ export default {
 
 .finalize-button:hover {
   background-color: #0d9252;
+}
+
+.quantity-controls {
+  display: flex;
+  align-items: center;
+}
+
+.quantity-controls button {
+  display: flex;
+  justify-content: center;
+  width: 15px;
+  height: 15px;
+  font-size: 10px;
+  border: 1px solid #ddd;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.quantity-controls button:hover {
+  border: none;
+  background-color: #41c686;
+  color: #ddd;
+}
+
+.quantity-controls span {
+  margin: 0 5px;
 }
 </style>

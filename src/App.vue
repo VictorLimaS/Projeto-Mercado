@@ -14,16 +14,20 @@ export default {
   name: 'App',
   components: {
     Header,
-    Footer
+    Footer,
   },
   data() {
     return {
-      itemName: ''
+      itemName: '',
+      showCart: false,
     }
   },
   methods: {
     getItem(value) {
       this.itemName = value
+    },
+    toggleCart() {
+      this.showCart = !this.showCart;
     }
   },
 };
