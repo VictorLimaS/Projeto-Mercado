@@ -8,7 +8,6 @@
         <p>{{ price }}</p>
         <Botao icone="cart-outline" @click="addToCart()" texto="Adicionar" />
     </div>
-
 </template>
 
 <script>
@@ -40,14 +39,6 @@ export default {
         },
         addToCart() {
             this.$emit('addToCart', this.item)
-            // const item = {
-            //     name: this.description,
-            //     price: parseFloat(this.price),
-            //     image: this.imageUrl,
-            //     quantity: 1,
-            // };
-            // console.log('Adicionando ao carrinho:', item);
-            // this.$store.dispatch('addToCart', item);
         }
     }
 };
