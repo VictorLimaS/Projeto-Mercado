@@ -14,7 +14,7 @@ Desenvolvi um mercado virtual utilizando o framework Vue.js como um meio de exib
 
 ## 🛸 Tecnologias
 
-This project was developed with the following technologies:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS <img align="center" alt="Victor" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Victor" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 - Vitejs <img align="center" alt="Victor" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
