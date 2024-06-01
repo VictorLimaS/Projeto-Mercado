@@ -39,4 +39,4 @@ Vuex: Usei para gerenciamento de estado
 
 
 
-Feito com ♥ ppr Victor Lima
+Feito com ♥ por Victor Lima
